@@ -13,10 +13,10 @@ https://github.com/wendikardian/data_analyst_submission.git
 
 Ensure you have the appropriate Python environment and required libraries. You can install these libraries by running the following command:
 <br>
-
+```bash
 pip install streamlit
 pip install -r dashboard/requirements.txt
-
+```
 
 ## Usage
 Navigate to the project directory (Local):
