@@ -8,7 +8,7 @@ This file is used to perform data analysis.
 Clone this repository to your local computer using the following command:
 
 ```bash
-https://github.com/wendikardian/data_analyst_submission.git
+git clone https://github.com/wendikardian/data_analyst_submission.git
 ```
 
 Ensure you have the appropriate Python environment and required libraries. You can install these libraries by running the following command:
