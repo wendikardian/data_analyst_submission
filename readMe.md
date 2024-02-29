@@ -15,13 +15,13 @@ Ensure you have the appropriate Python environment and required libraries. You c
 <br>
 ```bash
 pip install streamlit
-pip install -r dashboard/requirements.txt
+cd data_analyst_submission
+pip install -r requirements.txt
 ```
 
 ## Usage
 Navigate to the project directory (Local):
 ```bash
-cd data_analyst_submission
 streamlit run dashboard.py
 ```
 -----
